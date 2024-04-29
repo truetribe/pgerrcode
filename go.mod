@@ -1,3 +1,3 @@
-module github.com/jackc/pgerrcode
+module github.com/truetribe/pgerrcode
 
 go 1.12
